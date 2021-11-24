@@ -1,0 +1,24 @@
+{
+  "name": "examples",
+  "version": "1.0.0",
+  "description": "testing db IO",
+  "main": "server.js",
+  "dependencies": {
+    "sqlite3": "^5.0.2",
+    "websocket": "^1.0.34"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "sqlite",
+    "websockets",
+    "server",
+    "client",
+    "queue"
+  ],
+  "author": "me =)",
+  "license": "GPL-3.0-or-later"
+}
